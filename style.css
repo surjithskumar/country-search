@@ -1,0 +1,12 @@
+*{
+    overflow-x: hidden;
+    background-color: ivory;
+}
+#search{
+    width: fit-content;
+    color: blue;
+}
+#button{
+    background-color:skyblue ;
+    color: black; 
+}
